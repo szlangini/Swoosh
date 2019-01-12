@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">Swoosh</string>
     <string name="title_activity_league">LeagueActivity</string>
+    <string name="backgroundimage">BackgroundImage</string>
+    <string name="app_logo">App Logo</string>
+    <string name="desired_league">Desired League</string>
+    <string name="mens">Mens</string>
+    <string name="womens">Womens</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="co_ed">Co-ed</string>
+    <string name="next">NEXT</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="i_am_a">I am a:</string>
+    <string name="beginner">BEGINNER</string>
+    <string name="baller">BALLER</string>
+    <string name="finish">FINISH</string>
 </resources>
