@@ -1,7 +1,6 @@
-package com.example.szlangini.swoosh
+package com.example.szlangini.swoosh.Controller
 
 import android.os.Bundle
-import android.support.design.widget.Snackbar
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log
 
